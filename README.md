@@ -18,16 +18,12 @@ npm run dev
 # For yarn
 yarn dev
 
-**What's Included **📦
-Layouts
-Blank
-Full
-Boxed
-Dashboard
-Pages
-Account Settings
-Login
-Register
+What's Included 📦
+1. Layouts
+2. Dashboard
+3. Pages
+4. Login
+5. Register
 Error
 Typography
 Material Design Icons by Community
