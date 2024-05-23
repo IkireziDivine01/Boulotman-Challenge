@@ -17,7 +17,8 @@ npm run dev
 
 # For yarn
 yarn dev
-What's Included 📦
+
+**What's Included **📦
 Layouts
 Blank
 Full
